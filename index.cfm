@@ -1,3 +1,7 @@
+<cfquery>
+
+</cfquery>
+
 <!DOCTYPE html>
 <html>
 	<head>
@@ -5,5 +9,8 @@
 	</head>
 	<body>
 
+		<cfform>
+
+		</cfform>
 	</body>
 </html>
